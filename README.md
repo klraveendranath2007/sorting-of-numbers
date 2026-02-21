@@ -86,8 +86,6 @@ END
 ### PROGRAM (DESCENDING ORDER)
 
 ```asm
-
-You said:
 ORG 0000H
        MOV R7,30H     ; Load number of elements
        DEC R7         ; Outer loop = n-1
